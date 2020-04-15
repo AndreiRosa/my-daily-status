@@ -4,11 +4,6 @@
 <br>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/AndreiRosa/my-daily-status">
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/AndreiRosa/my-daily-status">
-</p>
-
-<p align="center">
 <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
   <a href="#zap-website">Website</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
